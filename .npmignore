@@ -1,0 +1,14 @@
+.data
+.history
+node_modules
+src
+.editorconfig
+.env*
+.gitignore
+.npmignore
+biome.json
+example.ts
+jest.config.js
+tsconfig.cjs.json
+tsconfig.json
+tsconfig.types.json

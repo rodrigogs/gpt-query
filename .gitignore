@@ -1,0 +1,5 @@
+.data
+.history
+node_modules
+.env*
+example.ts

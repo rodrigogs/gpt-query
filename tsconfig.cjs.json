@@ -1,0 +1,15 @@
+{
+  "compilerOptions": {
+    "outDir": "dist/cjs",
+    "target": "es6",
+    "module": "commonjs",
+    "declaration": false,
+    "strict": true,
+    "esModuleInterop": true,
+    "skipLibCheck": true,
+    "moduleResolution": "node",
+    "resolveJsonModule": true
+  },
+  "include": ["src/**/*"],
+  "exclude": ["node_modules", "dist"]
+}
