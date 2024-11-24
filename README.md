@@ -1,7 +1,7 @@
 
 # GPT Query
 
-A TypeScript library designed to streamline queries and integrate with APIs like OpenAI GPT and others. The project is modular, making it simple to maintain and extend functionality.
+GPT Query is a tool designed to enhance OpenAI models with the capability to search for content on the internet using the Google API and web scraping.
 
 ## Table of Contents
 
